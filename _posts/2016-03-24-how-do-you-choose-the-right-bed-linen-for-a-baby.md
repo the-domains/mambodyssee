@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There are quite a few things that first time parents tend to not even consider when they are preparing their home for a new family member, and bed linens are perhaps the most egregious example of this behavior.'
-datePublished: '2016-03-24T18:17:31.303Z'
-dateModified: '2016-03-24T18:17:10.292Z'
+datePublished: '2016-03-24T18:21:33.141Z'
+dateModified: '2016-03-24T18:21:26.820Z'
 title: How do you choose the right bed linen for a baby
 author: []
 sourcePath: _posts/2016-03-24-how-do-you-choose-the-right-bed-linen-for-a-baby.md
