@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mambodyssee]]></title>
         <description><![CDATA[Mambodyssee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mambodyssee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:53:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 16:54:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mambodyssee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These Are the Most Motivational Books Ever Written]]></title>
+            <description><![CDATA[<article><h1>These Are the Most Motivational Books Ever Written</h1><p>Three years ago, I identified the "Top 10 Motivational Books of All Time," but with a twist: I left the #1 spot blank and asked Inc.com readers to name their favorite. In hundreds of comments, our readers named almost 300 books but there were 18 that turned up consistently.</p><img src="http://images.inc.com/uploaded_files/image/970x450/getty_453318047_2000133320009280174_85513.jpg"></article>]]></description>
+            <link>http://www.inc.com/geoffrey-james/18-most-motivational-books-ever-written.html?cid=sf01002&amp;sr_share=facebook</link>
+            <guid isPermaLink="false">91dd7fd1-1a6e-479c-a139-3d91acf2f399</guid>
+            <pubDate>Thu, 24 Mar 2016 16:54:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Start this]]></title>
             <description><![CDATA[<article><h1>Start this</h1><p>Judecătorii de la Înalta Curte de Casație și Justiție au dat joi sentința în dosarul Microsoft: * omul de afaceri Nicolae Dumitru - un an și 6 luni închisoare cu suspendare * fostul ministru Gabriel Sandu - 2 ani cu executare * omul de afaceri Dorin Cocoș - 2 ani cu executare * fostul primar al municipiului Piatra Neamț Gheorghe Ștefan - 3 ani cu executare.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea57c4ed6aadb7b6f53b90ee6a9f7e7b1eaf409a.jpg"></article>]]></description>
-            <link>undefinedstart-this/index.html</link>
+            <link>https://thegrid.ai/mambodyssee/start-this/index.html</link>
             <guid isPermaLink="false">e5daee7a-41ee-4326-bdfd-3cb3a33b0d68</guid>
             <pubDate>Thu, 24 Mar 2016 16:53:46 GMT</pubDate>
         </item>
