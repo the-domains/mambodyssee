@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'There are quite a few things that first time parents tend to not even consider when they are preparing their home for a new family member, and bed linens are perhaps the most egregious example of this behavior.'
-datePublished: '2016-03-24T18:12:02.471Z'
-dateModified: '2016-03-24T18:11:51.176Z'
+datePublished: '2016-03-24T18:15:08.521Z'
+dateModified: '2016-03-24T18:14:58.774Z'
 title: How do you choose the right bed linen for a baby
 author: []
+sourcePath: _posts/2016-03-24-how-do-you-choose-the-right-bed-linen-for-a-baby.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-how-do-you-choose-the-right-bed-linen-for-a-baby.md
-published: true
 url: how-do-you-choose-the-right-bed-linen-for-a-baby/index.html
 _type: Article
 
 ---
 There are quite a few things that first time parents tend to not even consider when they are preparing their home for a new family member, and bed linens are perhaps the most egregious example of this behavior.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58a9c88c-34c3-4d2f-8f7e-4d373213d6de.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1ce9ff2-00f3-4351-8e6d-e0f9b3bc5169.jpg)
 
 The first and most important thing people need to do is make sure that whatever bed lines they choose fit the bed perfectly. There is a standardized size of 51 5/8 inches long by 27 1/4 inches wide by 5 1/2 inches thick, which is referred to as "standard size", but some crib mattresses and linens decide to paint outside the lines, making it important to check everything to be positive it will match perfectly.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbfea5a8-4d70-4a1a-b2c6-bf30834351e6.jpg)
