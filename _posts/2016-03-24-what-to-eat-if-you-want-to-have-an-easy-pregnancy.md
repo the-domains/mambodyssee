@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Women who are pregnant often experience unpleasant physical side effects from carrying the extra weight. There are ways to reduce the amount of pressure and stress the body undergoes during this time. The foods a mother to be eats will significantly impact how her body performs during the pregnancy. There are certain foods experts recommend eating when pregnant, which not only benefit the mother, but benefit the baby as well. One item to eliminate from the diet is salt. Pregnant women often retain water, which adds to the pressure in their veins causing their legs and ankles to swell. Getting rid of additional salt will dramatically reduce the amount of swelling associated with pregnancy.'
-datePublished: '2016-03-24T18:07:27.991Z'
-dateModified: '2016-03-24T18:07:16.487Z'
+datePublished: '2016-03-24T18:15:32.102Z'
+dateModified: '2016-03-24T18:07:36.416Z'
 title: What to Eat if You Want to Have an Easy Pregnancy
 author: []
 sourcePath: _posts/2016-03-24-what-to-eat-if-you-want-to-have-an-easy-pregnancy.md
