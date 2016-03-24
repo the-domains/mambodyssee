@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mambodyssee]]></title>
         <description><![CDATA[Mambodyssee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mambodyssee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:55:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 18:07:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mambodyssee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What to Eat if You Want to Have an Easy Pregnancy]]></title>
-            <description><![CDATA[<article><h1>What to Eat if You Want to Have an Easy Pregnancy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2a9e15-3ef7-4392-9fa0-7a00715cf2ac.jpg"></article>]]></description>
-            <link>undefinedwhat-to-eat-if-you-want-to-have-an-easy-pregnancy/index.html</link>
+            <description><![CDATA[<article><h1>What to Eat if You Want to Have an Easy Pregnancy</h1><p>Women who are pregnant often experience unpleasant physical side effects from carrying the extra weight. There are ways to reduce the amount of pressure and stress the body undergoes during this time. The foods a mother to be eats will significantly impact how her body performs during the pregnancy. There are certain foods experts recommend eating when pregnant, which not only benefit the mother, but benefit the baby as well. One item to eliminate from the diet is salt. Pregnant women often retain water, which adds to the pressure in their veins causing their legs and ankles to swell. Getting rid of additional salt will dramatically reduce the amount of swelling associated with pregnancy.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2a9e15-3ef7-4392-9fa0-7a00715cf2ac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mambodyssee/what-to-eat-if-you-want-to-have-an-easy-pregnancy/index.html</link>
             <guid isPermaLink="false">4fc1a0dc-df07-499b-9db3-4debf53bb6c0</guid>
-            <pubDate>Thu, 24 Mar 2016 17:55:41 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 18:07:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
