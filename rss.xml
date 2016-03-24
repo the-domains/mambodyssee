@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mambodyssee]]></title>
+        <description><![CDATA[Mambodyssee]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 17:55:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What to Eat if You Want to Have an Easy Pregnancy]]></title>
+            <description><![CDATA[<article><h1>What to Eat if You Want to Have an Easy Pregnancy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd2a9e15-3ef7-4392-9fa0-7a00715cf2ac.jpg"></article>]]></description>
+            <link>undefinedwhat-to-eat-if-you-want-to-have-an-easy-pregnancy/index.html</link>
+            <guid isPermaLink="false">4fc1a0dc-df07-499b-9db3-4debf53bb6c0</guid>
+            <pubDate>Thu, 24 Mar 2016 17:55:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
