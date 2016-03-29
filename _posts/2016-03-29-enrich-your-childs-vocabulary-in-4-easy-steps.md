@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "No matter what the child's age is, he or she will certainly benefit from possessing a broad vocabulary. Not only will an enriched vocabulary help to improve your child's academic performance but it can be a lifelong asset that can be utilized in the business world."
-datePublished: '2016-03-29T08:01:37.135Z'
-dateModified: '2016-03-29T08:00:40.208Z'
+datePublished: '2016-03-29T08:04:25.608Z'
+dateModified: '2016-03-29T08:03:59.842Z'
 title: "Enrich Your Child's Vocabulary In 4 Easy Steps"
 author: []
 sourcePath: _posts/2016-03-29-enrich-your-childs-vocabulary-in-4-easy-steps.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 No matter what the child's age is, he or she will certainly benefit from possessing a broad vocabulary. Not only will an enriched vocabulary help to improve your child's academic performance but it can be a lifelong asset that can be utilized in the business world.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ffbed6b-2d66-45a3-a29b-90eea0465a1d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756d32a7-90e3-42a9-a994-c459f0dc4749.jpg)
 
 Part of learning to expand one's vocabulary involves using and improving existing memory and concentration skills. As with many other skills, memorizing and concentrating on learning new vocabulary words works best through repetition.
 
