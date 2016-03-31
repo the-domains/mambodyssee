@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "No matter what the child's age is, he or she will certainly benefit from possessing a broad vocabulary. Not only will an enriched vocabulary help to improve your child's academic performance but it can be a lifelong asset that can be utilized in the business world."
-datePublished: '2016-03-29T08:04:25.608Z'
-dateModified: '2016-03-29T08:03:59.842Z'
+datePublished: '2016-03-31T06:10:06.221Z'
+dateModified: '2016-03-31T06:09:50.617Z'
 title: "Enrich Your Child's Vocabulary In 4 Easy Steps"
 author: []
 sourcePath: _posts/2016-03-29-enrich-your-childs-vocabulary-in-4-easy-steps.md
