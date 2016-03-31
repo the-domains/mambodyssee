@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When your new bundle of joy comes into your life, you find yourself with a whole range of new responsibilities and considerations. One of the first and most pressing of these concerns is the question of where you're going to get your newborn clothes and accessories from. With the huge range of options you have available to you, it can be difficult to know what resource is best for you. Despite this, it's easy to find some great clothes and newborn accessories that both you and your baby will love if you know where to look."
-datePublished: '2016-03-31T06:04:01.284Z'
-dateModified: '2016-03-31T06:03:52.745Z'
+datePublished: '2016-03-31T06:06:13.789Z'
+dateModified: '2016-03-31T06:05:00.977Z'
 title: Finding Great Newborn Clothes and Newborn Accessories
 author: []
+sourcePath: _posts/2016-03-31-finding-great-newborn-clothes-and-newborn-accessories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-finding-great-newborn-clothes-and-newborn-accessories.md
-published: true
 url: finding-great-newborn-clothes-and-newborn-accessories/index.html
 _type: Article
 
