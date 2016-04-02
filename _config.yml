@@ -1,6 +1,6 @@
 name: Mambodyssee
 favicon: null
-layout_spectrum: 0.62154
+layout_spectrum: 0.53123
 typography_spectrum: 0.25519
 title: Mambodyssee
 cta:
@@ -23,7 +23,7 @@ color:
     - '#292929'
     - '#a7a7a7'
   brandStrength: 0.25
-  lightness: 0.5625
+  lightness: 0.625
   saturation: 0.6875
   rhythmicContrast: 0.25
 purpose: []
