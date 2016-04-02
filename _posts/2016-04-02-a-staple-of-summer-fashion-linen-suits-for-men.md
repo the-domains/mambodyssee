@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Nothing says summer like linen suits for men. This cool classic has been a staple of gentleman’s summer wardrobes for hundreds of years. If you want to look your best when the temperature rises, you need to know how to stay cool. There is no better way to beat the heat and look good doing it than to wear a linen suit.\_"
-datePublished: '2016-04-02T18:56:22.754Z'
-dateModified: '2016-04-02T18:56:11.411Z'
+datePublished: '2016-04-02T19:03:52.567Z'
+dateModified: '2016-04-02T19:03:43.902Z'
 title: A Staple of Summer Fashion – Linen Suits for Men
 author: []
 sourcePath: _posts/2016-04-02-a-staple-of-summer-fashion-linen-suits-for-men.md
