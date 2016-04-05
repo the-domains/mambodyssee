@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some people are doing a lot of things up at ten o'clock in the morning: run, train, prepare their breakfast or learn new things. There are a number of methods that helps you achieve your goals, but it takes a lot of discipline for this."
-datePublished: '2016-04-05T06:44:28.517Z'
-dateModified: '2016-04-05T06:44:00.928Z'
+datePublished: '2016-04-05T06:47:03.215Z'
+dateModified: '2016-04-05T06:46:57.762Z'
 title: 5 Ways that helps you reach your goals - Train your mind
 author: []
 sourcePath: _posts/2016-04-05-5-ways-that-helps-you-reach-your-goals-train-your-mind.md
@@ -23,9 +23,9 @@ _type: Article
 
 ---
 Some people are doing a lot of things up at ten o'clock in the morning: run, train, prepare their breakfast or learn new things. There are a number of methods that helps you achieve your goals, but it takes a lot of discipline for this.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e556bbb-fa64-4e98-ab45-97ff4eb0a222.jpg)
 
 On the other hand, some people tend to think it is not enough just to set their specific objectives. It takes much dedication and accomplishments involve a lot of work.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e556bbb-fa64-4e98-ab45-97ff4eb0a222.jpg)
 
 It is important to know what you want to do in life and thinking about all sorts of ways that helps you reach your goals. Exceptional cases happens when you do not have to make great efforts to get some things, but it is important not to get lost in details or to deviate from the road. Whatever you want to do, the way you think has a direct effect on the actions you undertake.
 
