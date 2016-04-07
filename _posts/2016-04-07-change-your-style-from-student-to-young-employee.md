@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Interest in style, for clothing, in general, grabbed the attention of men, as was natural to happen.\_"
-datePublished: '2016-04-07T10:33:47.634Z'
-dateModified: '2016-04-07T10:33:02.262Z'
+datePublished: '2016-04-07T10:37:47.087Z'
+dateModified: '2016-04-07T10:37:37.353Z'
 title: Change your style from student to young employee
 author: []
 sourcePath: _posts/2016-04-07-change-your-style-from-student-to-young-employee.md
@@ -59,7 +59,7 @@ Another viewpoint is the length of sleeves; they do not have to be long to get u
 
 ## Pants
 
-In this case, things are pretty simple if you avoid the following: loose trousers, high waist, too tight and very colorful. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e0bc29-3b8f-47a0-a55c-230766588762.jpg)
+In this case, things are pretty simple if you avoid the following: loose trousers, high waist, too tight and very colorful. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/23c29a3f6c32e8c16fad2412a38652f7160c4428.jpg)
 
 You can wear suit pants or for a more relaxed outfit, choose the type of doc or cotton called Chinos
 
