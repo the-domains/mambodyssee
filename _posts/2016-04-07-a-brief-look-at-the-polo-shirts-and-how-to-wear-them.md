@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Tennis player Rene Lacoste created polo shirt in 1926. Polo shirt can be worn by almost anyone, from the smallest to the most advanced age. When you’re invited to an event and do not feel comfortable wearing a shirt, a polo shirt is a perfect choice.\_"
-datePublished: '2016-04-07T10:05:23.394Z'
-dateModified: '2016-04-07T10:05:16.775Z'
+datePublished: '2016-04-07T10:05:53.802Z'
+dateModified: '2016-04-07T10:05:47.294Z'
 title: A brief look at the polo shirts and how to wear them
 author: []
+sourcePath: _posts/2016-04-07-a-brief-look-at-the-polo-shirts-and-how-to-wear-them.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-a-brief-look-at-the-polo-shirts-and-how-to-wear-them.md
-published: true
 url: a-brief-look-at-the-polo-shirts-and-how-to-wear-them/index.html
 _type: Article
 
 ---
-Tennis player Rene Lacoste created polo shirt in 1926\. Polo shirt can be worn by almost anyone, from the smallest to the most advanced age. When you're invited to an event and do not feel comfortable wearing a shirt, a polo shirt is a perfect choice. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2cd5a75-68d0-4efc-b52c-417b8f9af1d8.jpg)
+Tennis player Rene Lacoste created polo shirt in 1926\. Polo shirt can be worn by almost anyone, from the smallest to the most advanced age. When you're invited to an event and do not feel comfortable wearing a shirt, a polo shirt is a perfect choice. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb5a93f074e7dc2febaded360efb27e90c3dbcad.jpg)
 
 Polo shirt is not so simple as classic T-shirt and not too elegant like a shirt. Among the items of clothing, the polo shirt is one of the greatest innovations as drawing the line between casual and formal.
 
