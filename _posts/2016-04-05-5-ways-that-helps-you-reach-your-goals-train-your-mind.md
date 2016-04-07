@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some people are doing a lot of things up at ten o'clock in the morning: run, train, prepare their breakfast or learn new things. There are a number of methods that helps you achieve your goals, but it takes a lot of discipline for this."
-datePublished: '2016-04-07T06:29:13.384Z'
-dateModified: '2016-04-07T06:29:09.138Z'
+datePublished: '2016-04-07T06:29:46.906Z'
+dateModified: '2016-04-07T06:29:19.456Z'
 title: 5 Ways that helps you reach your goals - Train your mind
 author: []
 sourcePath: _posts/2016-04-05-5-ways-that-helps-you-reach-your-goals-train-your-mind.md
