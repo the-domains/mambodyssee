@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When you are thinking of dating online, and you have an interest in men in uniform dating, knowing how to find the right community while setting up your profile is a must.\_"
-datePublished: '2016-04-07T06:07:57.134Z'
-dateModified: '2016-04-07T06:07:06.079Z'
+datePublished: '2016-04-07T06:09:10.633Z'
+dateModified: '2016-04-07T06:08:06.404Z'
 title: Dating Tips for Men in Uniform
 author: []
+sourcePath: _posts/2016-04-07-dating-tips-for-men-in-uniform.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-dating-tips-for-men-in-uniform.md
-published: true
 url: dating-tips-for-men-in-uniform/index.html
 _type: Article
 
