@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Have you ever wondered what it means your first impression when you walk into a room, you walk down the street and meet new people? I’ll give you the answer if you have not guessed by now.\_"
-datePublished: '2016-04-07T06:59:05.600Z'
-dateModified: '2016-04-07T06:58:59.280Z'
+datePublished: '2016-04-07T06:59:36.201Z'
+dateModified: '2016-04-07T06:59:21.779Z'
 title: Why the style counts for men?
 author: []
+sourcePath: _posts/2016-04-07-why-the-style-counts-for-men.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-why-the-style-counts-for-men.md
-published: true
 url: why-the-style-counts-for-men/index.html
 _type: Article
 
