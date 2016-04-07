@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You are on your way home from the hospital, and you realize that you have forgotten to ask the nurse how to bath your baby. The thought of taking care of a brand new life may seem a little scary, especially for new mothers. When it comes to bathing your baby, you may worry that the water and soap will make your baby too slippery to handle. By following some basic guidelines, you can help make bath time with baby safe, pleasant, and fun.'
-datePublished: '2016-03-31T07:21:56.495Z'
-dateModified: '2016-03-31T07:21:49.795Z'
+datePublished: '2016-04-07T06:29:35.974Z'
+dateModified: '2016-04-07T06:28:21.494Z'
 title: Turn Stressful Into Stress-Free With This Bath Your Baby Guide
 author: []
 sourcePath: _posts/2016-03-31-turn-stressful-into-stress-free-with-this-bath-your-baby-gui.md
