@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Interest in style, for clothing, in general, grabbed the attention of men, as was natural to happen.\_"
-datePublished: '2016-04-07T10:27:19.383Z'
-dateModified: '2016-04-07T10:27:10.771Z'
+datePublished: '2016-04-07T10:33:47.634Z'
+dateModified: '2016-04-07T10:33:02.262Z'
 title: Change your style from student to young employee
 author: []
+sourcePath: _posts/2016-04-07-change-your-style-from-student-to-young-employee.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-change-your-style-from-student-to-young-employee.md
-published: true
 url: change-your-style-from-student-to-young-employee/index.html
 _type: Article
 
@@ -67,7 +67,7 @@ You can wear suit pants or for a more relaxed outfit, choose the type of doc or 
 
 First detail you need to follow when picking a shoe is the tip, which can be four types: round, square, sharp and very elongated. 
 
-We advise you to forget the last three models and always choose a shoe with round or at least rounded tip. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21cb5a0d-adb0-4b25-b2fe-8c06329ffae6.jpg)
+We advise you to forget the last three models and always choose a shoe with round or at least rounded tip. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/934fe02d7ea597ef0434600a40457f3eaf44bd43.jpg)
 
 At the office, you can choose leather models, but is always welcome for a smart casual outfit to match it with a suede leather or textile materials shoes.
 
