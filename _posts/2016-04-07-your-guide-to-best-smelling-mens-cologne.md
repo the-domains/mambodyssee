@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Those jeans make your butt look hot. Your shirt has gotten many compliments from the opposite sex; you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection–but until you add the finishing touch, you’ll never be ready to shine your light over a room full of beautiful ladies.\_Nope.\_"
-datePublished: '2016-04-07T06:22:34.004Z'
-dateModified: '2016-04-07T06:22:25.762Z'
+datePublished: '2016-04-07T06:26:38.591Z'
+dateModified: '2016-04-07T06:26:29.833Z'
 title: Your Guide to Best Smelling Mens Cologne
 author: []
+sourcePath: _posts/2016-04-07-your-guide-to-best-smelling-mens-cologne.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-your-guide-to-best-smelling-mens-cologne.md
-published: true
 url: your-guide-to-best-smelling-mens-cologne/index.html
 _type: Article
 
@@ -58,7 +58,7 @@ Nobody is going to quiz you on this, but you could win points with the ladies if
 
 By the way, if your medicine cabinet has been stocked with Armani Code for years and you're looking for a newer scent from a house you rely upon, give this sexy second cousin an opportunity to drag a whole new audience of a woman into your sphere.
 
-## Charmpro's Edge Up Pheromone Cologne ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9df331b-7034-485f-ad33-00ed81b8236a.jpg)
+## Charmpro's Edge Up Pheromone Cologne ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3c028fdf3fc2d4812f644a89c76fc20539558fa.jpg)
 
 Your science teacher covered the topic of the near-hypnotic power of male pheromones, right? In case you need a refresher, pheromones are naturally occurring enzymes emitted by the body that send out signals so obvious, no woman can resist you. 
 
