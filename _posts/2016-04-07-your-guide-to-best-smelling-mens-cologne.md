@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Those jeans make your butt look hot. Your shirt has gotten many compliments from the opposite sex; you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection–but until you add the finishing touch, you’ll never be ready to shine your light over a room full of beautiful ladies.\_Nope.\_"
-datePublished: '2016-04-07T06:38:26.735Z'
-dateModified: '2016-04-07T06:38:16.862Z'
+datePublished: '2016-04-07T06:40:44.039Z'
+dateModified: '2016-04-07T06:40:34.411Z'
 title: Your Guide to Best Smelling Mens Cologne
 author: []
 sourcePath: _posts/2016-04-07-your-guide-to-best-smelling-mens-cologne.md
@@ -22,7 +22,7 @@ url: your-guide-to-best-smelling-mens-cologne/index.html
 _type: Article
 
 ---
-Those jeans make your butt look hot. Your shirt has gotten many compliments from the opposite sex; you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection--but until you add the finishing touch, you'll never be ready to shine your light over a room full of beautiful ladies. Nope. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/359000de-897a-48b3-9d3a-864228625f33.jpg)
+Those jeans make your butt look hot. Your shirt has gotten many compliments from the opposite sex; you wish you owned half a dozen. Even your scruffy beard has been trimmed to perfection--but until you add the finishing touch, you'll never be ready to shine your light over a room full of beautiful ladies. Nope. 
 
 ## That's why you're reading this guide to best-smelling men's cologne!
 
