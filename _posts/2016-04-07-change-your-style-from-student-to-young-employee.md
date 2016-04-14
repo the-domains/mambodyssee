@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Interest in style, for clothing, in general, grabbed the attention of men, as was natural to happen.\_"
-datePublished: '2016-04-07T10:37:47.087Z'
-dateModified: '2016-04-07T10:37:37.353Z'
+datePublished: '2016-04-14T08:33:37.098Z'
+dateModified: '2016-04-14T08:33:08.866Z'
 title: Change your style from student to young employee
 author: []
 sourcePath: _posts/2016-04-07-change-your-style-from-student-to-young-employee.md
