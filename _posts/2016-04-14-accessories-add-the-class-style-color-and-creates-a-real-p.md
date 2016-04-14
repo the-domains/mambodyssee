@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Accessories add the class, style, color and creates a real personality. One such accessory is the watch that is designed to complement the\_outfit, but simple wearing is not enough."
-datePublished: '2016-04-14T08:32:18.490Z'
-dateModified: '2016-04-14T08:32:09.782Z'
-title: ''
+datePublished: '2016-04-14T08:34:29.476Z'
+dateModified: '2016-04-14T08:34:00.376Z'
+title: How to match men’s watches with your outfit
 author: []
 sourcePath: _posts/2016-04-14-accessories-add-the-class-style-color-and-creates-a-real-p.md
 published: true
@@ -43,7 +43,6 @@ Watch straps are available in a wide range and to suit everyone's taste.
 Watch straps can be from crocodile, alligator, rubber, textile, plastic, fabric, rubber with steel inserts, white gold or steel. One suggestion is that at purchase to ask from where you can get replacement bands. It is much cheaper to own a quality watch and more straps.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e7eaa06-1665-4b8d-b396-f20d124cfe9d.jpg)
 
-  
 Some simple rules for matching are: silver is matched with black, gray and blue. If you go to gold, will merge with brown, beige, tan and other earth colors. If you own a black or gray suit, then black strap watch is the best, but for brownsuitsyou must choose a watch that has a brown belt. The silver belt goes well with all shades of suits mentioned above.
 
 It's not enough to match the belt with your outfit.
