@@ -6,26 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Accessories add the class, style, color and creates a real personality. One such accessory is the watch that is designed to complement the\_outfit, but simple wearing is not enough."
-datePublished: '2016-04-14T08:31:43.276Z'
-dateModified: '2016-04-14T08:31:37.628Z'
+datePublished: '2016-04-14T08:32:18.490Z'
+dateModified: '2016-04-14T08:32:09.782Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-accessories-add-the-class-style-color-and-creates-a-real-p.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-accessories-add-the-class-style-color-and-creates-a-real-p.md
-published: true
 url: accessories-add-the-class-style-color-and-creates-a-real-p/index.html
 _type: Article
 
 ---
 Accessories add the class, style, color and creates a real personality. One such accessory is the watch that is designed to complement the outfit, but simple wearing is not enough.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/276b8443-0c72-42f4-bc8a-8a42b79289e3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd455478b6200893664561d516d322d1ea332db.jpg)
 
-  
 > For added style, a watch should be balanced with the outfit.
 
 For example, before purchasing a watch, think of other jewelry that you will wear next to it, such rings and cufflinks. If you own a collection of cufflinks and gold rings, maybe you should buy a gold watch.
