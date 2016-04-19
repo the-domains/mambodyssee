@@ -4,8 +4,15 @@
         <description><![CDATA[Mambodyssee]]></description>
         <link>http://mambodyssee.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 12:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 07:09:41 GMT</lastBuildDate>
         <atom:link href="http://mambodyssee.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[style]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be63c039-b616-4322-a926-dd529e8caae9.jpg" alt="" title="">]]></description>
+            <link>http://mambodyssee.com/why-the-style-counts-for-men/index.html</link>
+            <guid isPermaLink="false">95d89050-b38e-4bad-bc94-b5e786b34bac</guid>
+            <pubDate>Tue, 19 Apr 2016 07:09:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1. Remember: Your socks should match your suit]]></title>
             <description><![CDATA[<article><h1>1. Remember: Your socks should match your suit</h1><p>Men's suits are about impressing people and fitting by looking right, which can only be achieved if you take some time to consider the finer points of how you wear the suit and how it fits you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/291a55b4de01204ecab932b1171dd7be0e02cdd5.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>http://mambodyssee.com/f2278f9f-f157-4857-b1a6-327e4f893bce/index.html</link>
             <guid isPermaLink="false">f2278f9f-f157-4857-b1a6-327e4f893bce</guid>
             <pubDate>Thu, 07 Apr 2016 10:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why the style counts for men?]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be63c039-b616-4322-a926-dd529e8caae9.jpg" alt="" title="">]]></description>
-            <link>http://mambodyssee.com/why-the-style-counts-for-men/index.html</link>
-            <guid isPermaLink="false">95d89050-b38e-4bad-bc94-b5e786b34bac</guid>
-            <pubDate>Thu, 07 Apr 2016 06:59:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
