@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Have you ever wondered what it means your first impression when you walk into a room, you walk down the street and meet new people? I’ll give you the answer if you have not guessed by now.\_"
-datePublished: '2016-04-07T06:59:36.201Z'
-dateModified: '2016-04-07T06:59:21.779Z'
-title: Why the style counts for men?
-author: []
+description: 'Have you ever wondered what it means your first impression when you walk into a room, you walk down the street and meet new people? I’ll give you the answer if you have not guessed by now. '
+datePublished: '2016-04-19T07:09:37.629Z'
+dateModified: '2016-04-19T07:09:10.704Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-07-why-the-style-counts-for-men.md
 published: true
 authors: []
@@ -28,8 +30,7 @@ It's all nonverbal gestures you transmit them unconscious. In the first 10 secon
 
 I'll give you a hint. 
 
-Remember, when you walk on the street being rushed to get to pay a bill or to get to work, how much matter how you were dressed?
-Just happened to wake up one morning reluctantly, and you get the clothes you've thrown away the night before. 
+Remember, when you walk on the street being rushed to get to pay a bill or to get to work, how much matter how you were dressed? Just happened to wake up one morning reluctantly, and you get the clothes you've thrown away the night before. 
 
 Do you remember how many people were looking at you? 
 
@@ -41,8 +42,7 @@ You were stepped on, pushed from one place to another as if they all wanted to g
 
 The only method by which you will learn how to look good is to read, then go out and try the things you've read. Even though you will make many mistakes, life goes on. 
 
-Do not be afraid to express your personality through your style!
-Imagine that how you dress can influence the kind of people you would like to have in your life. 
+Do not be afraid to express your personality through your style! Imagine that how you dress can influence the kind of people you would like to have in your life. 
 > 
 > People judge each other by the way they are dressed. 
 
